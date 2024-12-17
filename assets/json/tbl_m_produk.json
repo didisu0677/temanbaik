@@ -1,0 +1,30 @@
+{
+    "field": {
+        "id": "primary_key",
+        "tipe": "boolean",
+        "kode": "varchar",
+        "nama": "varchar",
+        "berat": "int",
+        "quantity": "int",
+        "modal_quantiy": "bigint",
+        "modal1": "int",
+        "modal2": "int",
+        "foto": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "tipe": "Tipe",
+        "kode": "Kode",
+        "nama": "Nama",
+        "berat": "Berat",
+        "quantity": "Quantity",
+        "modal_quantiy": "Modal Quantiy",
+        "modal1": "Modal1",
+        "modal2": "Modal2",
+        "foto": "Foto",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

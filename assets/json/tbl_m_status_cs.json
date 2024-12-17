@@ -1,0 +1,16 @@
+{
+    "field": {
+        "id": "primary_key",
+        "status_cs": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "status_cs": "Status Cs",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "status_cs": "required"
+    },
+    "alias": []
+}

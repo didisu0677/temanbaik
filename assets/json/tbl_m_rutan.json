@@ -1,0 +1,21 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode": "varchar",
+        "nama": "varchar",
+        "alamat": "text",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode": "Kode",
+        "nama": "Nama Rutan",
+        "alamat": "Alamat",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "kode": "required|unique",
+        "nama": "required"
+    },
+    "alias": []
+}

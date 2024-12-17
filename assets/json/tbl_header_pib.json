@@ -1,0 +1,42 @@
+{
+    "field": {
+        "id": "primary_key",
+        "cusdecid": "bigint",
+        "car": "varchar",
+        "pibno": "varchar",
+        "pibtg": "date",
+        "sppbtg": "date",
+        "impnpwp": "varchar",
+        "impnama": "varchar",
+        "impalmt": "text",
+        "kdkpbc": "varchar",
+        "urkdkpbc": "varchar",
+        "pelmuat": "varchar",
+        "peltransit": "varchar",
+        "pelbkr": "varchar",
+        "jnsdok": "varchar",
+        "uploaded_by": "varchar",
+        "uploaded_at": "datetime"
+    },
+    "label": {
+        "id": "Id",
+        "cusdecid": "Cusdecid",
+        "car": "Car",
+        "pibno": "Pibno",
+        "pibtg": "Pibtg",
+        "sppbtg": "Sppbtg",
+        "impnpwp": "Impnpwp",
+        "impnama": "Impnama",
+        "impalmt": "Impalmt",
+        "kdkpbc": "Kdkpbc",
+        "urkdkpbc": "Urkdkpbc",
+        "pelmuat": "Pelmuat",
+        "peltransit": "Peltransit",
+        "pelbkr": "Pelbkr",
+        "jnsdok": "Jnsdok",
+        "uploaded_by": "Uploaded By",
+        "uploaded_at": "Uploaded At"
+    },
+    "validation": [],
+    "alias": []
+}

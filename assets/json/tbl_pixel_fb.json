@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_user": "int",
+        "fb_pixel": "varchar",
+        "keterangan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "id_user": "Id User",
+        "fb_pixel": "Fb Pixel",
+        "keterangan": "Keterangan",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "fb_pixel": "required|unique"
+    },
+    "alias": []
+}

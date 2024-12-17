@@ -1,0 +1,24 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nama": "varchar",
+        "alias": "text",
+        "tempat_lahir": "varchar",
+        "tanggal_lahir": "date",
+        "nik": "varchar",
+        "alamat": "text",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nama": "Nama",
+        "alias": "Alias",
+        "tempat_lahir": "Tempat Lahir",
+        "tanggal_lahir": "Tanggal Lahir",
+        "nik": "Nik",
+        "alamat": "Alamat",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

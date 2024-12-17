@@ -1,0 +1,19 @@
+{
+    "field": {
+        "id": "primary_key",
+        "tanggal": "date",
+        "keterangan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "tanggal": "Tanggal",
+        "keterangan": "Keterangan",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "tanggal": "required",
+        "keterangan": "required"
+    },
+    "alias": []
+}

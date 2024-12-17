@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_user": "int",
+        "email": "varchar",
+        "id_bm": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "id_user": "Id User",
+        "email": "Email",
+        "id_bm": "Id Bm",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "email": "email"
+    },
+    "alias": []
+}

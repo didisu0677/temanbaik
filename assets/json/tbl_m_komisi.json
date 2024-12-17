@@ -1,0 +1,30 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_brand": "int",
+        "id_produk": "int",
+        "id_mitra": "int",
+        "_key": "varchar",
+        "komisi_cod_pcs": "int",
+        "komisi_reg_pcs": "int",
+        "komisi_cod_ads": "int",
+        "komisi_reg_ads": "int",
+        "komisi_cod_sr": "int",
+        "komisi_reg_sr": "int"
+    },
+    "label": {
+        "id": "Id",
+        "id_brand": "Id Brand",
+        "id_produk": "Id Produk",
+        "id_mitra": "Id Mitra",
+        "_key": " Key",
+        "komisi_cod_pcs": "Komisi Cod Pcs",
+        "komisi_reg_pcs": "Komisi Reg Pcs",
+        "komisi_cod_ads": "Komisi Cod Ads",
+        "komisi_reg_ads": "Komisi Reg Ads",
+        "komisi_cod_sr": "Komisi Cod Sr",
+        "komisi_reg_sr": "Komisi Reg Sr"
+    },
+    "validation": [],
+    "alias": []
+}

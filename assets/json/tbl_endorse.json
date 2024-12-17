@@ -1,0 +1,50 @@
+{
+    "field": {
+        "id": "primary_key",
+        "no_invoice": "varchar",
+        "judul": "varchar",
+        "tanggal": "date",
+        "id_brand": "int",
+        "keterangan": "text",
+        "kurir": "int",
+        "no_resi": "varchar",
+        "ongkir": "int",
+        "status": "int",
+        "total_harga": "money",
+        "sudah_dibayar": "int",
+        "sisa_pembayaran": "int",
+        "posting_akun_artis": "int",
+        "posting_akun_resmi": "int",
+        "posting_google_drive": "int",
+        "id_artis": "select",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "no_invoice": "No Invoice",
+        "judul": "Judul",
+        "tanggal": "Tanggal",
+        "id_brand": "Id Brand",
+        "keterangan": "Keterangan",
+        "kurir": "Kurir",
+        "no_resi": "No Resi",
+        "ongkir": "Ongkir",
+        "status": "Status",
+        "total_harga": "Total Harga",
+        "sudah_dibayar": "Sudah Dibayar",
+        "sisa_pembayaran": "Sisa Pembayaran",
+        "posting_akun_artis": "Posting Akun Artis",
+        "posting_akun_resmi": "Posting Akun Resmi",
+        "posting_google_drive": "Posting Google Drive",
+        "id_artis": "Artis",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "judul": "required",
+        "id_artis": "required",
+        "total_harga": "required"
+    },
+    "alias": {
+        "id_artis": "tbl_m_artis.nama"
+    }
+}

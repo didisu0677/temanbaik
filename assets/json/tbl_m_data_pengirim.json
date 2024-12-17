@@ -1,0 +1,26 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_brand": "int",
+        "nama": "varchar",
+        "no_telp": "varchar",
+        "api_key": "varchar",
+        "alamat": "text",
+        "_key": "varchar",
+        "id_user": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "id_brand": "Id Brand",
+        "nama": "Nama",
+        "no_telp": "No Telp",
+        "api_key": "Api Key",
+        "alamat": "Alamat",
+        "_key": " Key",
+        "id_user": "Id User",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

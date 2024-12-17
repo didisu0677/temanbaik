@@ -1,0 +1,38 @@
+{
+    "field": {
+        "id": "primary_key",
+        "judul": "varchar",
+        "id_cs": "text",
+        "metode_bayar": "int",
+        "is_kode_unik": "int",
+        "plus_total": "int",
+        "minus_total": "int",
+        "kode_unik": "int",
+        "is_jumlah_order": "int",
+        "id_ekspedisi": "int",
+        "redirect": "boolean",
+        "link_redirect": "text",
+        "id_brand": "int",
+        "id_product": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "judul": "Judul",
+        "id_cs": "Id Cs",
+        "metode_bayar": "Metode Bayar",
+        "is_kode_unik": "Is Kode Unik",
+        "plus_total": "Plus Total",
+        "minus_total": "Minus Total",
+        "kode_unik": "Kode Unik",
+        "is_jumlah_order": "Is Jumlah Order",
+        "id_ekspedisi": "Id Ekspedisi",
+        "redirect": "Redirect",
+        "link_redirect": "Link Redirect",
+        "id_brand": "Id Brand",
+        "id_product": "Id Product",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

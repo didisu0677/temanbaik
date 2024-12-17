@@ -1,0 +1,25 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_kategori_mitra": "select",
+        "sebagai_mitra": "varchar",
+        "komisi": "money",
+        "id_cs": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "id_kategori_mitra": "Kategori Mitra",
+        "sebagai_mitra": "Sebagai Mitra",
+        "komisi": "Komisi",
+        "id_cs": "Id Cs",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "id_kategori_mitra": "required",
+        "komisi": "required"
+    },
+    "alias": {
+        "id_kategori_mitra": "tbl_m_kategori_mitra.kategori_mitra"
+    }
+}

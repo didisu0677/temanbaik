@@ -1,0 +1,38 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_jabatan": "int",
+        "jabatan": "varchar",
+        "id_user": "int",
+        "nik": "varchar",
+        "nama": "varchar",
+        "tempat_lahir": "varchar",
+        "tanggal_lahir": "date",
+        "jenis_kelamin": "varchar",
+        "alamat": "text",
+        "tanggal_masuk": "date",
+        "tanggal_keluar": "date",
+        "gaji_pokok": "int",
+        "komisi": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "id_jabatan": "Id Jabatan",
+        "jabatan": "Jabatan",
+        "id_user": "Id User",
+        "nik": "Nik",
+        "nama": "Nama",
+        "tempat_lahir": "Tempat Lahir",
+        "tanggal_lahir": "Tanggal Lahir",
+        "jenis_kelamin": "Jenis Kelamin",
+        "alamat": "Alamat",
+        "tanggal_masuk": "Tanggal Masuk",
+        "tanggal_keluar": "Tanggal Keluar",
+        "gaji_pokok": "Gaji Pokok",
+        "komisi": "Komisi",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

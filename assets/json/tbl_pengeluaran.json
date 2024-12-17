@@ -1,0 +1,32 @@
+{
+    "field": {
+        "id": "primary_key",
+        "judul": "varchar",
+        "tanggal": "date",
+        "total_pengeluaran": "money",
+        "id_bank": "select",
+        "id_jenis_pengeluaran": "select",
+        "keterangan": "text",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "judul": "Kode Produk",
+        "tanggal": "Tanggal",
+        "total_pengeluaran": "Total Pengeluaran",
+        "id_bank": "Bank",
+        "id_jenis_pengeluaran": "Jenis",
+        "keterangan": "Keterangan",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "judul": "required|unique",
+        "total_pengeluaran": "required",
+        "id_bank": "required",
+        "id_jenis_pengeluaran": "required"
+    },
+    "alias": {
+        "id_bank": "tbl_data_bank.nama_bank",
+        "id_jenis_pengeluaran": "tbl_m_jenis_pengeluaran.nama"
+    }
+}

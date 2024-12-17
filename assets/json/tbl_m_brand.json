@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nama": "varchar",
+        "keterangan": "text",
+        "logo": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nama": "Nama",
+        "keterangan": "Keterangan",
+        "logo": "Logo",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "nama": "required|unique"
+    },
+    "alias": []
+}

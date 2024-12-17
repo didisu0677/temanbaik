@@ -1,0 +1,14 @@
+{
+    "field": {
+        "id": "primary_key",
+        "media": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "media": "Media",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

@@ -1,0 +1,16 @@
+{
+    "field": {
+        "id": "primary_key",
+        "jenis_mitra": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "jenis_mitra": "Jenis Mitra",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "jenis_mitra": "required|unique"
+    },
+    "alias": []
+}

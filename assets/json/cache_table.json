@@ -1,0 +1,6 @@
+{
+    "marketing_tools_data_iklan_data_tbl_data_iklan": {
+        "select": "tbl_data_iklan.id AS tbl_data_iklan_id, tbl_data_iklan.nama_advertiser AS tbl_data_iklan_nama_advertiser, tbl_data_iklan.tanggal AS tbl_data_iklan_tanggal, tbl_data_iklan.spent AS tbl_data_iklan_spent, tbl_data_iklan.result AS tbl_data_iklan_result, tbl_data_iklan.cpr AS tbl_data_iklan_cpr, tbl_data_iklan.total_order AS tbl_data_iklan_total_order, tbl_data_iklan.laba AS tbl_data_iklan_laba, tbl_data_iklan.profit AS tbl_data_iklan_profit",
+        "join": []
+    }
+}

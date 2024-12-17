@@ -1,0 +1,16 @@
+{
+    "field": {
+        "id": "primary_key",
+        "jabatan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "jabatan": "Jabatan",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "jabatan": "required"
+    },
+    "alias": []
+}

@@ -1,0 +1,28 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_advertiser": "int",
+        "_key": "varchar",
+        "parent_key": "varchar",
+        "parent_key2": "varchar",
+        "spent": "int",
+        "result": "int",
+        "omset_pesanan": "int",
+        "tanggal": "date",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "id_advertiser": "Id Advertiser",
+        "_key": " Key",
+        "parent_key": "Parent Key",
+        "parent_key2": "Parent Key2",
+        "spent": "Spent",
+        "result": "Result",
+        "omset_pesanan": "Omset Pesanan",
+        "tanggal": "Tanggal",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

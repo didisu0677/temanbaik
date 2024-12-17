@@ -1,0 +1,18 @@
+{
+    "field": {
+        "id": "primary_key",
+        "judul_pengajuan": "varchar",
+        "keterangan": "text",
+        "periode": "date",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "judul_pengajuan": "Judul Pengajuan",
+        "keterangan": "Keterangan",
+        "periode": "Periode",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

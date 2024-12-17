@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_brand": "int",
+        "key": "varchar",
+        "konten": "text",
+        "variabel": "text",
+        "periode": "date"
+    },
+    "label": {
+        "id": "Id",
+        "id_brand": "Id Brand",
+        "key": "Key",
+        "konten": "Konten",
+        "variabel": "Variabel",
+        "periode": "Periode"
+    },
+    "validation": [],
+    "alias": []
+}

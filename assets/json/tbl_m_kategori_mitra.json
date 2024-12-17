@@ -1,0 +1,16 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kategori_mitra": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kategori_mitra": "Kategori Mitra",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "kategori_mitra": "required|unique"
+    },
+    "alias": []
+}

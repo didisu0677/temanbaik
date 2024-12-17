@@ -1,0 +1,32 @@
+{
+    "field": {
+        "id": "primary_key",
+        "judul": "varchar",
+        "tanggal_mulai": "date",
+        "tanggal_selesai": "date",
+        "keterangan": "text",
+        "penerima_event": "text",
+        "id_penerima_event": "text",
+        "desc_event": "varchar",
+        "tipe": "enum",
+        "jumlah": "varchar",
+        "_key": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "judul": "Judul",
+        "tanggal_mulai": "Tanggal Mulai",
+        "tanggal_selesai": "Tanggal Selesai",
+        "keterangan": "Keterangan",
+        "penerima_event": "Penerima Event",
+        "id_penerima_event": "Id Penerima Event",
+        "desc_event": "Desc Event",
+        "tipe": "Tipe",
+        "jumlah": "Jumlah",
+        "_key": " Key",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

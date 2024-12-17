@@ -1,0 +1,26 @@
+{
+    "field": {
+        "id": "primary_key",
+        "judul_invoice": "varchar",
+        "brand": "int",
+        "total_harga": "int",
+        "tanggal": "date",
+        "keterangan": "text",
+        "invoice": "varchar",
+        "sisa_pembayaran": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "judul_invoice": "Judul Invoice",
+        "brand": "Brand",
+        "total_harga": "Total Harga",
+        "tanggal": "Tanggal",
+        "keterangan": "Keterangan",
+        "invoice": "Invoice",
+        "sisa_pembayaran": "Sisa Pembayaran",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

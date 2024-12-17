@@ -1,0 +1,32 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nama": "varchar",
+        "foto": "text",
+        "alamat": "text",
+        "nama_penerima": "varchar",
+        "telp_penerima": "varchar",
+        "alamat_penerima": "text",
+        "atas_nama_pay": "varchar",
+        "nama_bank_pay": "varchar",
+        "no_rekening_pay": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nama": "Nama Artis",
+        "foto": "Foto",
+        "alamat": "Alamat",
+        "nama_penerima": "Nama Penerima",
+        "telp_penerima": "Telp Penerima",
+        "alamat_penerima": "Alamat Penerima",
+        "atas_nama_pay": "Atas Nama Pay",
+        "nama_bank_pay": "Nama Bank Pay",
+        "no_rekening_pay": "No Rekening Pay",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "nama": "required|unique"
+    },
+    "alias": []
+}

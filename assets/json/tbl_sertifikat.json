@@ -1,0 +1,38 @@
+{
+    "field": {
+        "id": "primary_key",
+        "plg_id": "bigint",
+        "nama_perusahaan": "varchar",
+        "nama_perangkat": "varchar",
+        "merk": "varchar",
+        "model": "varchar",
+        "brand": "varchar",
+        "lic_no": "varchar",
+        "lic_date": "date",
+        "exp_date": "date",
+        "acuan": "text",
+        "frekuensi": "text",
+        "label": "varchar",
+        "imported_date": "datetime",
+        "imported_by": "varchar"
+    },
+    "label": {
+        "id": "Id",
+        "plg_id": "Plg Id",
+        "nama_perusahaan": "Nama Perusahaan",
+        "nama_perangkat": "Nama Perangkat",
+        "merk": "Merk",
+        "model": "Model",
+        "brand": "Brand",
+        "lic_no": "Lic No",
+        "lic_date": "Lic Date",
+        "exp_date": "Exp Date",
+        "acuan": "Acuan",
+        "frekuensi": "Frekuensi",
+        "label": "Label",
+        "imported_date": "Imported Date",
+        "imported_by": "Imported By"
+    },
+    "validation": [],
+    "alias": []
+}
